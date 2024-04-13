@@ -1,7 +1,26 @@
 # FlickerForge
-A customizable image and GIF generator mimicking old television static, offering control over colors, blur, dimensions, pixel size, and many more.
+A customizable GIF generator mimicking old television static, offering control over colors, blur, dimensions, pixel size and noise pattern.
+Made as a project in 2022 for a university course called Scripting Languages.<br><br>
 
-Made as a project in 2022 for a university course called Scripting Languages. 
+
+# How to run the program
+To use the program, you'll need to install PyQt 6, Pillow and NumPy.<br>
+You can start the program by running app.py.<br><br>
+
+
+# TODO / Future plans
+As it is, this project is anything but complete in my eyes. This is as much a passion project as it was something that helped me complete the course.
+In the near future, if I'll have the time, I'd like to extend the functionality of the program and improve its overall performance.<br>
+Some ideas I have in mind:
+<ul>
+  <li>an option to choose between generating a single image or an animation</li>
+  <li>the ability to export the generated static in many different formats</li>
+  <li>more "noise" patterns</li>
+  <li>configurable default generation options</li>
+  <li>several generation presets</li>
+  <li>an option to set the generated image as the Desktop background or the Lock screen image</li>
+</ul>
+
 
 # Screenshots
 ![screenshot_1](https://github.com/alibowndyn/FlickerForge/assets/63349064/6c89aa8d-f40f-4b3c-a99e-0bd905df6148)
@@ -19,8 +38,3 @@ Made as a project in 2022 for a university course called Scripting Languages.
 ![static4](https://github.com/alibowndyn/FlickerForge/assets/63349064/67ab7537-ae37-4365-9809-fbb933047482)
 <br><br>
 ![static3](https://github.com/alibowndyn/FlickerForge/assets/63349064/782aacfa-3297-48fa-b4b7-3d27917d699b)
-
-<br><br>
-# How to run the program
-To use the program, you'll need to install PyQt 6, Pillow and NumPy.
-You can start the program by running app.py.
