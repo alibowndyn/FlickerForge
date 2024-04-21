@@ -4,9 +4,12 @@ Made as a project in 2022 for a university course called Scripting Languages.<br
 
 
 # How to run the program
-To use the program, you'll need to install PyQt 6, Pillow and NumPy.<br>
-You can start the program by running app.py.<br><br>
-
+To install the required packages: <br>
+```pip install -r requirements.txt```
+<br><br>
+To run the program: <br>
+```python app.py```
+<br><br>
 
 # TODO / Future plans
 As it is, this project is anything but complete in my eyes. This is as much a passion project as it was something that helped me complete the course.
